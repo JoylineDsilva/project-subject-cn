@@ -1,4 +1,5 @@
 // snake.js
+//ne line
 class Snake {
     constructor() {
         this.x = 0;
