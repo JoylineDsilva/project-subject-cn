@@ -6,6 +6,7 @@ var gameOver = false;
 var gameOverFrame;
 var score = 0;
 var countdown = 3;
+//this is a test comment
 
 function setup() {
     createCanvas(700, 700);
